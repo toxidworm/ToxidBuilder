@@ -1,0 +1,11 @@
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\SomethingAboutMyPC.Form1.resources
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\SomethingAboutMyPC.Properties.Resources.resources
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\SomethingAboutMyPC.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\SomethingAboutMyPC.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\SomethingAboutMyPC.About.resources
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\bin\Release\ToxidBuilder.exe.config
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\bin\Release\ToxidBuilder.exe
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\bin\Release\ToxidBuilder.pdb
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\ToxidBuilder.exe
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\ToxidBuilder.pdb
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Release\SomethingAboutMyPC.csprojAssemblyReference.cache

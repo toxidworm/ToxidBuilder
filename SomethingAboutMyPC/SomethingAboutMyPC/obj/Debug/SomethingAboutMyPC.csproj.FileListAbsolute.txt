@@ -1,0 +1,10 @@
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\bin\Debug\SomethingAboutMyPC.exe.config
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\bin\Debug\SomethingAboutMyPC.exe
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\bin\Debug\SomethingAboutMyPC.pdb
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.Form1.resources
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.Properties.Resources.resources
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.exe
+C:\Users\Win10\source\repos\SomethingAboutMyPC\SomethingAboutMyPC\obj\Debug\SomethingAboutMyPC.pdb
